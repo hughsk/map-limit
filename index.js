@@ -1,4 +1,5 @@
 var once = require('once')
+var noop = function noop(){}
 
 module.exports = mapLimit
 
