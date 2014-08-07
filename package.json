@@ -1,7 +1,7 @@
 {
   "name": "map-limit",
   "description": "async.mapLimit's functionality available as a standalone npm module",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "main": "index.js",
   "browser": "index.js",
   "dependencies": {
